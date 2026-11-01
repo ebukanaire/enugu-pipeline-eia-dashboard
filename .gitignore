@@ -1,0 +1,21 @@
+# Python environment caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Streamlit local configuration files
+.streamlit/
+
+# Operating system metadata files
+.DS_Store
+Thumbs.db
+
+# Virtual environments (if you use them later)
+venv/
+env/
+.env
+
+# Optional: If your CSV contains real corporate proprietary data, 
+# uncomment the line below to stop it from leaking to GitHub:
+# pipeline_telemetry.csv

@@ -1,0 +1,6 @@
+Segment_ID,Location,Latitude,Longitude,Soil_Resistivity_Ohm_m,Soil_pH,Methane_Leak_PPM
+SEG-101,Ugwu Onyeama Node,6.4483,7.4439,15.2,5.2,2.1
+SEG-102,9th Mile Hub,6.4258,7.4042,110.5,6.8,85.0
+SEG-103,Holy Ghost Central Station,6.4411,7.5020,45.0,6.1,45.8
+SEG-104,Emene Industrial Zone,6.4492,7.5750,18.1,4.8,0.8
+SEG-105,Abakaliki Expressway Link,6.4600,7.6100,95.3,7.2,1.2
