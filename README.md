@@ -56,5 +56,6 @@ To audit or run this platform locally on your machine, follow these steps:
 ### 📬 Connect & Collaborate
 I am actively seeking professional opportunities, engineering internships, and graduate associate tracks within the energy, utility, and tech space across Nigeria. 
 
-* **LinkedIn:** [Insert Your LinkedIn Custom URL Here]
-* **Email:** [Insert Your Professional Email Address Here]
+**LinkedIn:** [https://www.linkedin.com/in/chukwuebuka-eze-7904b71a7/]
+
+* **Email:** [eebuka47@gmail.com]
