@@ -29,7 +29,7 @@ st.markdown("""
     <h1 style="color: #00FFCC; margin: 0; font-size: 32px;">🛡️ MIDSTREAM INDUSTRIAL COMMAND CENTER</h1>
     <h3 style="color: #ffffff; margin: 5px 0 0 0; font-size: 18px; font-weight: 300;">Enugu Gas Distribution Pipeline Network Corridor</h3>
     <p style="color: #94a3b8; font-size: 13px; margin: 10px 0 0 0;">
-        <b>Lead Developer:</b> [Your Name] | Specialized Geophysics & Predictive Data Science System
+        <b>Lead Developer:</b> Eze Chukwuebuka | Specialized Geophysics & Predictive Data Science System
     </p>
 </div>
 """, unsafe_allow_html=True)
